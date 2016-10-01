@@ -1,0 +1,1 @@
+# doorkeeper_swagger_sample
